@@ -1,0 +1,9 @@
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Projects\Unity\MST\testClient\obj\Debug\UnityVS.testClient.CSharp.csprojResolveAssemblyReference.cache
+D:\Projects\Unity\MST\testClient\obj\Debug\Assembly-CSharp.dll
+D:\Projects\Unity\MST\testClient\obj\Debug\Assembly-CSharp.pdb

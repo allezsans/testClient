@@ -1,0 +1,15 @@
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\UnityEditor.Graphs.dll
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\UnityVS.VersionSpecific.dll
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Projects\Unity\MST\testClient\Temp\UnityVS_bin\Debug\UnityEditor.Graphs.xml
+D:\Projects\Unity\MST\testClient\obj\Debug\UnityVS.testClient.CSharp.Editor.csprojResolveAssemblyReference.cache
+D:\Projects\Unity\MST\testClient\obj\Debug\Assembly-CSharp-Editor.dll
+D:\Projects\Unity\MST\testClient\obj\Debug\Assembly-CSharp-Editor.pdb
